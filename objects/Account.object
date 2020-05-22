@@ -257,6 +257,14 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Birthday__c</fullName>
+        <externalId>false</externalId>
+        <label>Birthday</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
         <fullName>Copado_Trained_2_25__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
